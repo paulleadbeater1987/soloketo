@@ -1,1 +1,1 @@
-{"sections":{"main":{"type":"main-page","custom_css":["h1 {display: none}"],"settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{"sections":{"main":{"type":"main-page","custom_css":["h1 {display: none;}","#HowToLoseFatQuicklyAndKeepItOff {font-size: 3.2rem; color: teal; text-shadow: 5px 5px 10px cyan;}",".aboutLink {color: teal; text-shadow: 2px 2px 5px lightgoldenrodyellow;}"],"settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
