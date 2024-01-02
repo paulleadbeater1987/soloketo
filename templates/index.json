@@ -1,1 +1,153 @@
-{"sections":{"59db2901-0391-4dcb-bb17-c8211ec73de8":{"type":"image-with-text","blocks":{"template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-heading-1":{"type":"heading","settings":{"heading":"How To Lose Fat Quickly And Keep It Off","heading_size":"h1"}},"template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-text-1":{"type":"text","settings":{"text":"<p>Start here. This is the ultimate beginner's guide to the keto diet.<\/p><p>When you see what's covered in, you'll see it is ALL worth knowing.<\/p><p>Learn the fundamentals of keto <em>in under 1 hour<\/em>.<\/p><p><strong>Simplify. Learn. Apply<\/strong><\/p>","text_style":"body"}},"template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-button-1":{"type":"button","settings":{"button_label":"GO","button_link":"https:\/\/bit.ly\/losefatquicklyandkeepitoff"}}},"block_order":["template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-heading-1","template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-text-1","template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-button-1"],"custom_css":["h2 {-webkit-text-stroke: 1px navy; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff;}"],"settings":{"image":"shopify:\/\/shop_images\/clouds-mountain.jpg","height":"medium","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"scheme-dd5a264f-dbfd-4ec6-befc-651f11cfa0dc","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"e2d3ad51-66dd-45c9-9773-76c5b6936052":{"type":"image-with-text","blocks":{"template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-heading-1":{"type":"heading","settings":{"heading":"Fat Burning Mode","heading_size":"h1"}},"template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-text-1":{"type":"text","settings":{"text":"<p>Learn how to optimize your keto diet, so you can burn fat faster and experience all the other amazing benefits. <\/p>","text_style":"body"}},"template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-button-1":{"type":"button","settings":{"button_label":"Blog","button_link":"shopify:\/\/blogs\/news"}}},"block_order":["template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-heading-1","template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-text-1","template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-button-1"],"custom_css":["h2 {-webkit-text-stroke: 2px darkred; text-shadow: 0 0 10px #fbb741, 0 0 20px #fbb741, 0 0 30px #fbb741;}"],"settings":{"image":"shopify:\/\/shop_images\/brushing-cooking-oil-on-bbq-asparagus.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"overlap","color_scheme":"scheme-bbcb1d35-ccc4-44f9-9f6d-f52c6a68891c","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"436d1dd9-fba7-4104-b998-74dbd74baeb4":{"type":"image-with-text","blocks":{"template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-heading-1":{"type":"heading","settings":{"heading":"About","heading_size":"h1"}},"template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-text-1":{"type":"text","settings":{"text":"<p>Why does this website exist? Why do I personally bother writing this exact sentence? Why take an interest in writing and health? We don't more of us just watch Netflix all day? Find out the answers to some of these questions and more.<\/p>","text_style":"body"}},"template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-button-1":{"type":"button","settings":{"button_label":"About","button_link":"shopify:\/\/pages\/about"}}},"block_order":["template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-heading-1","template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-text-1","template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-button-1"],"custom_css":["h2 {-webkit-text-stroke: 2px darkgreen; text-shadow: 0 0 10px #7fff00, 0 0 20px #7fff00, 0 0 30px #7fff00;}"],"settings":{"image":"shopify:\/\/shop_images\/northern-forest.jpg","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"scheme-22fc53e4-127d-4765-ae07-209055c139da","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["59db2901-0391-4dcb-bb17-c8211ec73de8","e2d3ad51-66dd-45c9-9773-76c5b6936052","436d1dd9-fba7-4104-b998-74dbd74baeb4"]}
+{
+  "sections": {
+    "59db2901-0391-4dcb-bb17-c8211ec73de8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "How To Lose Fat Quickly And Keep It Off",
+            "heading_size": "h1"
+          }
+        },
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Start here. This is the ultimate beginner's guide to the keto diet.<\/p><p>When you see what's covered in, you'll see it is ALL worth knowing.<\/p><p>Learn the fundamentals of keto <em>in under 1 hour<\/em>.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Simplify",
+            "button_link": "https:\/\/bit.ly\/losefatquicklyandkeepitoff"
+          }
+        }
+      },
+      "block_order": [
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-heading-1",
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-text-1",
+        "template--20031240241469__59db2901-0391-4dcb-bb17-c8211ec73de8-button-1"
+      ],
+      "custom_css": [
+        "h2 {-webkit-text-stroke: 1px navy; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/clouds-mountain.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-dd5a264f-dbfd-4ec6-befc-651f11cfa0dc",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e2d3ad51-66dd-45c9-9773-76c5b6936052": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fat Burning Mode",
+            "heading_size": "h1"
+          }
+        },
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn how to optimize your keto diet, so you can burn fat faster and experience all the other amazing benefits. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Blog",
+            "button_link": "shopify:\/\/blogs\/news"
+          }
+        }
+      },
+      "block_order": [
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-heading-1",
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-text-1",
+        "template--20031240241469__e2d3ad51-66dd-45c9-9773-76c5b6936052-button-1"
+      ],
+      "custom_css": [
+        "h2 {-webkit-text-stroke: 2px darkred; text-shadow: 0 0 10px #fbb741, 0 0 20px #fbb741, 0 0 30px #fbb741;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/brushing-cooking-oil-on-bbq-asparagus.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-bbcb1d35-ccc4-44f9-9f6d-f52c6a68891c",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "436d1dd9-fba7-4104-b998-74dbd74baeb4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About",
+            "heading_size": "h1"
+          }
+        },
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why does this website exist? Why do I personally bother writing this exact sentence? Why take an interest in writing and health? We don't more of us just watch Netflix all day? Find out the answers to some of these questions and more.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "About",
+            "button_link": "shopify:\/\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-heading-1",
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-text-1",
+        "template--20031240241469__436d1dd9-fba7-4104-b998-74dbd74baeb4-button-1"
+      ],
+      "custom_css": [
+        "h2 {-webkit-text-stroke: 2px darkgreen; text-shadow: 0 0 10px #7fff00, 0 0 20px #7fff00, 0 0 30px #7fff00;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/northern-forest.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-22fc53e4-127d-4765-ae07-209055c139da",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "59db2901-0391-4dcb-bb17-c8211ec73de8",
+    "e2d3ad51-66dd-45c9-9773-76c5b6936052",
+    "436d1dd9-fba7-4104-b998-74dbd74baeb4"
+  ]
+}
