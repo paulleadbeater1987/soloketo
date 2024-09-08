@@ -1,0 +1,268 @@
+
+/* Global */
+
+html,
+body {
+	font-family: 'Archivo', sans-serif !important;
+	font-size: 1.2rem;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content_wrap {
+    background-image: url("../img/background-white.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    flex: 1;
+    padding-top: 10%;
+    text-align: center;
+}
+
+/* Shadow borders */
+
+.borderBlueShadow {
+    box-shadow: 
+    0 0 10px 5px rgba(173, 216, 230, 0.6), 
+    0 0 20px 10px rgba(135, 206, 250, 0.5), 
+    0 0 30px 15px rgba(0, 191, 255, 0.4),
+    0 0 40px 20px rgba(70, 130, 180, 0.3),
+    0 0 50px 25px rgba(25, 25, 112, 0.2);
+}
+
+.borderGreenShadow {
+    box-shadow: 
+    0 0 5px 2px rgba(0, 100, 0, 0.3), 
+    0 0 10px 4px rgba(0, 128, 0, 0.2), 
+    0 0 15px 6px rgba(34, 139, 34, 0.1),
+    0 0 20px 8px rgba(0, 100, 0, 0.1),
+    0 0 25px 10px rgba(0, 50, 0, 0.05);
+
+}
+
+/* Shadow Text */
+
+.fireShadow,
+.greenShadow,
+.greyShadow,
+.yellowShadow {
+    color: black;
+    font-weight: bold;
+}
+
+.fireShadow {
+    text-shadow:
+        1px -1px 1px rgba(255, 165, 0, 0.2),
+        -1px -1px 2px rgba(255, 140, 0, 0.15),
+        2px -2px 3px rgba(255, 69, 0, 0.1),
+        -2px -2px 4px rgba(255, 69, 0, 0.05);
+}
+
+.greenShadow {
+    text-shadow:
+        1px -1px 5px rgba(144, 238, 144, 0.8),
+        -1px -1px 10px rgba(144, 238, 144, 0.6),
+        3px -3px 15px rgba(144, 238, 144, 0.4),
+        -3px -3px 20px rgba(144, 238, 144, 0.3);
+}
+
+.greyShadow {
+    text-shadow:
+        1px -1px 5px rgba(200, 200, 200, 0.8),
+        -1px -1px 10px rgba(200, 200, 200, 0.6),
+        3px -3px 15px rgba(200, 200, 200, 0.4),
+        -3px -3px 20px rgba(200, 200, 200, 0.3);
+}
+
+.yellowShadow {
+    text-shadow:
+    1px -1px 5px rgba(255, 255, 160, 0.8), 
+    -1px -1px 10px rgba(255, 255, 160, 0.6),
+    3px -3px 15px rgba(255, 255, 160, 0.4), 
+    -3px -3px 20px rgba(255, 255, 160, 0.3);
+}
+
+.blueShadow {
+    text-shadow:
+        1px -1px 5px rgba(173, 216, 230, 0.8),
+        -1px -1px 10px rgba(173, 216, 230, 0.6),
+        3px -3px 15px rgba(173, 216, 230, 0.4),
+        -3px -3px 20px rgba(173, 216, 230, 0.3);
+}
+
+/* Heading Text */
+
+h1 {
+    font-size: 3rem !important;
+    text-shadow: 2px 2px 3px grey;
+}
+
+h2 { font-family: monospace; }
+
+h3 {
+	font-size: 1.5rem !important;
+	margin-bottom: 2.5% !important;
+	margin-top: 2.5% !important;
+}
+
+h4 {
+	display: inline;
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+}
+
+/* Normal Text */
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+textarea {
+    text-align: left !important;
+    padding: 1%;
+}
+
+
+/* HOME */
+
+.home_content_inner_wrap {
+    display: flex;
+    align-items: center;
+}
+
+.home_content_text_wrap,
+.home_content_coverphoto_wrap {
+    display: inline-block;
+    padding: 4%;
+    width: 50%;
+}
+
+.home_content_text_wrap h2 {
+    margin-top: 0%;
+    padding: 2%;
+}
+
+#ul_healthWonders li {
+    display: inline;
+    margin: 0 2%;
+}
+
+.img_cover_photo {
+    width: 100%;
+}
+
+#home_content_text_wrap {
+    margin: 0 auto;
+    padding: 5%;
+    padding-bottom: 1%;
+    width: 80%;
+}
+
+#slogans_wrap {
+    padding: 1%;
+}
+
+#slogans_wrap h3 {
+    display: inline;
+    margin: 2%;
+}
+
+.home_content_hero_wrap h2 {
+    font-family: cursive;
+    font-style: italic;
+}
+
+/* LEARN */
+
+.learn_inner_wrap {
+    background-image: url("../img/background-green.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 5% auto;
+    width: 90%;
+}
+
+.learn_inner_wrap h2,
+.learn_inner_wrap img {
+    display: inline-block;
+    width: 48%;
+}
+
+.learn_inner_wrap h2 a {
+    color: #000;
+}
+
+.learn_inner_wrap h2 a:hover {
+    color: darkblue;
+    text-decoration: dotted;
+}
+
+/* SHOP */
+
+#shop_content_wrap {
+    display: block;
+    position: relative;
+    margin: 80px 0;
+}
+
+#shop_content_wrap h2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 40%;
+    top: 10%;
+    color: #fff;
+}
+
+#shop_content_wrap img {
+    width: 50%;
+}
+
+/* CONTACT */
+
+#div_Contact {
+    padding: 15% 20% 10% 20%;
+    text-align: center;
+}
+
+#h2Contact {
+    margin-bottom: 4%;
+}
+
+#contact_form input {
+    padding: 2%;
+}
+
+.form_row {
+    margin-bottom: 2%;
+}
+
+.form_column input {
+    width: 100%;
+}
+
+#divTextArea {
+    padding: 1.4%;
+}
+
+textarea {
+    width: 100%;
+}
+
+#contactSubmit {
+    background-image: linear-gradient(314deg, darkblue 5%, lightblue 90%);
+    border-radius: 2%;
+    color: white;
+    cursor: pointer;
+}

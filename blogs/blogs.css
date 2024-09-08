@@ -1,0 +1,12 @@
+.blog_Content {
+    background-color: #E0E0E0;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    margin: auto;
+    padding: 2% 5%;
+    width: 90%;
+}
+
+h1 {
+    text-align: center;
+}

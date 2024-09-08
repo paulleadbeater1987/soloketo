@@ -1,0 +1,20 @@
+/* Footer */
+
+.div_Socials {
+    margin-top: -5%;
+    text-align: center;
+}
+
+.div_Socials a img {
+    margin: 2%;
+    width: 4%;
+}
+
+footer {
+	background: linear-gradient(to bottom, lightyellow, lightblue);
+    font-size: 0.8rem;
+    text-align: center;
+    text-shadow: 0.1px 0.1px 0.1px grey;
+    padding: 0.5% 0;
+    padding-bottom: 0.1%;
+}
